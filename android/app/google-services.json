@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "858786967033",
+    "project_id": "testcli-8038d",
+    "storage_bucket": "testcli-8038d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858786967033:android:5968e8c0bc6878054ca128",
+        "android_client_info": {
+          "package_name": "com.example.recycle"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjFNXYlhCobYqPfJHVGf8G8BVKAjARsA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
